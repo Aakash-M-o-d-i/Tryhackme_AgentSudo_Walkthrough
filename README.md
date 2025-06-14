@@ -1,7 +1,10 @@
 # 🕵️‍♂️ Agent Sudo - 14 June 2k25
 
 <div align="center">
-    <img src="./images/THM.png" alt="TryHackMe Logo" width="320"/>
+    <img src="./images/THM.png" alt="TryHackMe Logo" 
+    width="320"/>
+</div>
+<div align="center">
     <img src="./images/Agent_Sudo .png" alt="Agent Sudo" width="320"/>
 </div>
 
@@ -46,7 +49,7 @@ dirbuster -u http://10.10.199.108/content/ -l /usr/share/wordlists/dirbuster/dir
 ```
 
 <p align="center">
-  <img src="./images/dirbuster_scan.png" alt="Directory Scan Screenshot" width="600"/>
+  <img src="./images/directory_scan.png" alt="Directory Scan Screenshot" width="600"/>
 </p>
 
 ---

@@ -1,0 +1,8 @@
+--2025-06-12 21:10:18--  ftp://10.10.5.56/cutie.png
+           => ‘cutie.png.1’
+Connecting to 10.10.5.56:21... failed: Connection timed out.
+Retrying.
+
+--2025-06-12 21:19:46--  ftp://10.10.5.56/cutie.png
+  (try: 2) => ‘cutie.png.1’
+Connecting to 10.10.5.56:21... 

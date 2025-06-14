@@ -2,7 +2,8 @@
 
 <div align="center">
     <img src="./images/THM.png" alt="TryHackMe Logo" 
-    width="320"/>
+    width="100%"/>
+</div>
 </div>
 <div align="center">
     <img src="./images/Agent_Sudo .png" alt="Agent Sudo" width="320"/>
